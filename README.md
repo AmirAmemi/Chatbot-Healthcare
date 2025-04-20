@@ -12,7 +12,7 @@ The **Healthcare Chatbot** utilizes NLP techniques to understand user queries an
 - **Appointment Scheduling**: Helps users schedule medical appointments based on available times.
 - **Symptom Checker**: Assists users in identifying potential conditions based on their symptoms.
 - **Natural Language Understanding**: Utilizes pre-trained models to understand user input and respond with appropriate information.
-
+ 
 The chatbot can be integrated with various platforms (e.g., web, mobile apps) to assist users in healthcare-related queries.
 
 ---
